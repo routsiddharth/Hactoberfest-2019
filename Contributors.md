@@ -72,6 +72,11 @@ Hi
 - GitHub: [HimeshNayak](https://github.com/HimeshNayak)
 - Interests: Competitive Coding, Website and App Development
 
+### Name: [Siddharth Rout](https://github.com/routsiddharth)
+- Place: Manama, Bahrain
+- Bio: 13 years old, coding for 7.
+- GitHub: [Ramanujam Gond](https://github.com/routsiddharth)
+
 >>>Conflict resolved In master
 
 master
